@@ -3,9 +3,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Computer Systems Engineering Graduate</h3>
 
 <p align="center">
-  <a href="https://github.com/KhaliqueAhmed">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Enthusiast;Backend+Learner;Building+Real+World+Projects" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Enthusiast;Backend+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -63,7 +61,7 @@
 ## 📫 Connect With Me
 
 📧 Email: khaleequeahmed4@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/khaliqueahmedchandio
+💼 LinkedIn: www.linkedin.com/in/khaliqueahmedchandio  
 
 ---
 
