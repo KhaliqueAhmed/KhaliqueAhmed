@@ -3,7 +3,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Computer Systems Engineering Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=25&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Enthusiast;Backend+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Enthusiast;Backend+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
