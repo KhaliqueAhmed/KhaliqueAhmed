@@ -21,22 +21,22 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
 
 ### 🗄️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+<img alt="Express" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" />
 
 ### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+<img alt="Git" src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img alt="VS Code" src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
 
 ---
 
@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaliqueAhmed&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaliqueAhmed&theme=tokyonight" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KhaliqueAhmed&show_icons=true&theme=tokyonight" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=KhaliqueAhmed&theme=tokyonight" />
 </p>
 
 ---
